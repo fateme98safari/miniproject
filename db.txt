@@ -1,0 +1,9 @@
+fight club,David Fincher,8.8,https://www.youtube.com/watch?v=qtRKdVHc-cE ,147,Brad Pitt Edward Norton Meat Loaf,1,1999
+million dollar baby, Clint Eastwood, 8.1, https://www.youtube.com/watch?v=5_RsHRmIRBY, 145, Hilary Swank Clint Eastwood Morgan Freeman,1,2020
+It's a wonderful life, Frank Capra, 8.6, https://www.youtube.com/watch?v=iLR3gZrU2Xo, 135, James Stewart Donna Reed Lionel Barrymore,1,2009
+Inception, Christopher Nolan, 8.8, https://www.youtube.com/watch?v=YoHD9XEInc0, 143, Leonardo DiCaprio Joseph Gordon-Levitt Elliot Page,1,2020
+The Peripheral, Michael Roskam, 8.1, https://www.youtube.com/watch?v=aH1FOkJys3Y, 148, Taron Egerton Paul Walter Hauser Greg Kinnear Sepideh Moafi,1,2020
+When Calls the Heart, Michael Landon, 8.0, https://www.youtube.com/watch?v=I5xC3MMhIis, 120, Erin Krakow Martin Cummins Pascale Hutton,32,2022
+The Territory, Alex Pritz, 7.6, https://www.youtube.com/watch?v=wL9wvdbk7A4, 146, Neidinha Bandeira Bitaté Uru Eu Wau Wau,90,2011
+Three Identical Strangers, Tim Wardle, 7.6, https://www.youtube.com/watch?v=4GeD3tDrRDQ, 129, Robert Shafran Michael Domnitz Howard Schneider,1,2005
+The Stepford Wives, Frank Oz, 5.3, https://www.youtube.com/watch?v=SuAADocdVn0, 15, Nicole Kidman Bette Midler Matthew Broderick,1,2021
